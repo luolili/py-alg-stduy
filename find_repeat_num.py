@@ -1,4 +1,5 @@
 class FindRepeatNum:
+    # 超时
     def findRepeatNumber(self, nums: [int]) -> int:
         i = 0
         nLen = len(nums)
